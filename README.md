@@ -20,5 +20,8 @@ Step8:Predicting values for y.
 
 step9:Finding the metrics, accuracy using root mean square error. 
 
+Result:
+
+Now the model is trained and fit in algorithm and the value of RMSE is found.
 
   
